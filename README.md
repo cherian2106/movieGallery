@@ -1,3 +1,8 @@
+This project was made to create a movie gallery website. You can search for movies, have a gallary view of movies and sort movies by type in the gallary view. 
+
+The project was initially hosted on gitlab and can be found here: https://cherian2106.gitlab.io/mp2p2/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
