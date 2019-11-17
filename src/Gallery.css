@@ -1,0 +1,27 @@
+.gall{
+  text-align: center;
+}
+
+.GalImg:hover{
+  opacity: 0.6;
+  cursor: pointer;
+}
+.ListV{
+  text-align: right;
+}
+
+.HeaderGall{
+  text-align: center;
+  font-size: 4em;
+  /* color: $text_color; */
+  min-height: 100%;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.GalleryContainer{
+  background-color: LightSteelBlue;
+  text-align: center;
+}
+.buttons{
+  width: 107%;
+}

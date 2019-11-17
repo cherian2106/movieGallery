@@ -1,0 +1,25 @@
+.Search_Label{
+  text-align: center;
+  padding: 5px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2em;
+}
+
+.Search{
+  font-size: 1em;
+  margin: auto;
+}
+
+.Container{
+  text-align: center;
+  background-color: LightSteelBlue;
+}
+
+.TempContain{
+  text-align: center;
+  background-color: LightSteelBlue;
+}
+
+.ContainSearch{
+  /* background-color: Peachpuff; */
+}
